@@ -7,5 +7,5 @@
 
 https://ebaconline.com.br/cientista-de-dados
 
-Modulos 1 ao 8 ciencia de dados EBAC
+Modulos 1 ao 7 ciencia de dados EBAC
 
